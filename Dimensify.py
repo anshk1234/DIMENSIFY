@@ -89,7 +89,7 @@ st.sidebar.markdown(
         - 👨‍💻 Developed by *Ansh Kunwar*  
         - ⚙️ Powered by Streamlit & Three.js
         - 🖼️ Animation by: LottieFiles
-        - 🧠 GITHUB:[Source code]()
+        - 🧠 GITHUB:[Source code](https://github.com/anshk1234/DIMENSIFY)
         - 📧 contact: anshkunwar3009@gmail.com                 
         - 🌐 see other projects: [streamlit.io/ansh kunwar](https://share.streamlit.io/user/anshk1234)
         - **This App is LICENSED under MIT License**
@@ -450,4 +450,5 @@ components.html(html_template, height=600, scrolling=False)
 st.success("Viewer ready — use Download model button to get model file AND use the on-canvas controls to interact. Use the Screenshot button to download a PNG.")
 
 st.markdown("<p style='text-align:center; color:white;'>© 2025 DIMENSIFY | Powered by Three.js </p>", unsafe_allow_html=True)
+
 
